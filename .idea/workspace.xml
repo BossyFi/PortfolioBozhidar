@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed78fd8-43af-4c69-b781-9d5639afce25" name="Changes" comment="Empezamos portfolio">
+    <list default="true" id="0ed78fd8-43af-4c69-b781-9d5639afce25" name="Changes" comment="Video metido en el portfolio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643295971466</updated>
       <workItem from="1643295972648" duration="370000" />
-      <workItem from="1643296346757" duration="9462000" />
+      <workItem from="1643296346757" duration="15496000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1643296172045</created>
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643296448151</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Video metido en el portfolio">
+      <created>1643310645522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643310645522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Empezamos portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Empezamos portfolio" />
+    <MESSAGE value="Video metido en el portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Video metido en el portfolio" />
   </component>
 </project>
