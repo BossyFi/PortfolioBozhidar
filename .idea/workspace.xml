@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ed78fd8-43af-4c69-b781-9d5639afce25" name="Changes" comment="Portfolio en castellano terminado (base)" />
+    <list default="true" id="0ed78fd8-43af-4c69-b781-9d5639afce25" name="Changes" comment="Palabra en inglés cambiada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +55,7 @@
       <updated>1643295971466</updated>
       <workItem from="1643295972648" duration="370000" />
       <workItem from="1643296346757" duration="17113000" />
+      <workItem from="1643318380676" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1643296172045</created>
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643318162937</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Palabra en inglés cambiada">
+      <created>1643318400993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643318400993</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,7 @@
     <MESSAGE value="Video metido en el portfolio" />
     <MESSAGE value="Casi terminado" />
     <MESSAGE value="Portfolio en castellano terminado (base)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Portfolio en castellano terminado (base)" />
+    <MESSAGE value="Palabra en inglés cambiada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palabra en inglés cambiada" />
   </component>
 </project>
